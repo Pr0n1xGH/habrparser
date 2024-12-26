@@ -1,5 +1,8 @@
 # Habr News Bot 🤖 | Бот для новостей с Хабра
 
+![image](https://github.com/user-attachments/assets/025819f4-be11-4a0d-bf60-0f4cd643bd9f)
+![image](https://github.com/user-attachments/assets/bf7dab09-4931-42b6-921b-39ba8c70118a)
+
 [English](#english) | [Русский](#russian)
 
 ## English
