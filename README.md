@@ -108,4 +108,4 @@ A Telegram bot that automatically collects interesting articles from Habr.com an
 Telegram: [@nob0dy_tg](https://t.me/nob0dy_tg)
 
 ### License | Лицензия
-MIT
+GPL-3.0 license
