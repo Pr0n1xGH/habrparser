@@ -53,10 +53,8 @@ async def main():
     
     dp["stats_service"] = stats_service
     
-    # Запускаем первую проверку сразу
     await stats_service.check_new_posts()
     
-    # Добавляем задачу в планировщик
     scheduler.add_job(
         stats_service.check_new_posts,
         trigger="interval",
